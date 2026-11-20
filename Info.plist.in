@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+<key>CFBundleIdentifier</key><string>com.local.island</string>
+<key>CFBundleName</key><string>Island</string>
+<key>CFBundleDisplayName</key><string>Island</string>
+<key>CFBundleExecutable</key><string>Island</string>
+<key>CFBundleIconFile</key><string>AppIcon</string>
+<key>CFBundleIconName</key><string>AppIcon</string>
+<key>CFBundlePackageType</key><string>APPL</string>
+<key>CFBundleShortVersionString</key><string>1.0</string>
+<key>CFBundleVersion</key><string>__BUILD__</string>
+<key>LSMinimumSystemVersion</key><string>26.0</string>
+<key>LSUIElement</key><true/>
+<key>NSHighResolutionCapable</key><true/>
+<key>NSPrincipalClass</key><string>NSApplication</string>
+<key>NSCalendarsFullAccessUsageDescription</key><string>Island shows your upcoming events in the notch.</string>
+<key>NSCalendarsUsageDescription</key><string>Island shows your upcoming events in the notch.</string>
+<key>NSLocationUsageDescription</key><string>Island shows the weather where you are.</string>
+<key>NSLocationWhenInUseUsageDescription</key><string>Island shows the weather where you are.</string>
+<key>NSAppleEventsUsageDescription</key><string>Island shows and controls the song playing in Music or Spotify, and shows and answers new messages and email.</string>
+<key>NSMicrophoneUsageDescription</key><string>Island can include your microphone in screen recordings.</string>
+</dict></plist>

@@ -1,0 +1,15 @@
+{
+  "fill" : { "automatic-gradient" : "srgb:0.33000,0.30000,0.86000,1.00000" },
+  "groups" : [
+    {
+      "layers" : [
+        { "glass" : false, "image-name" : "dot.svg", "name" : "dot" },
+        { "glass" : false, "image-name" : "wave.svg", "name" : "wave" },
+        { "glass" : true, "image-name" : "island.svg", "name" : "island" }
+      ],
+      "shadow" : { "kind" : "neutral", "opacity" : 0.5 },
+      "translucency" : { "enabled" : false, "value" : 0.3 }
+    }
+  ],
+  "supported-platforms" : { "squares" : [ "macOS" ] }
+}

@@ -1,0 +1,13 @@
+.build/
+.swiftpm/
+.DS_Store
+/shots/
+/dist/
+/site/
+/Resources/xray/
+.claude/
+# macOS custom-folder-icon files
+Icon?
+
+# Local Netlify folder
+.netlify
